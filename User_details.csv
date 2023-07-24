@@ -1,0 +1,26 @@
+Customer ID,Age,Gender,City,Articles,Searches,Symptoms,Visit1,Visit2,Diabetes,LIPID,Thyroid
+1111222201,36,M,Mumbai,"Immunity, Ayurveda",Fatigue,acne,General Physician,,,HIGH,
+1111222202,39,F,Mumbai,"Ayurveda, Nutrition",Root Canal,toothache,dentist,,,HIGH,BORDER
+1111222203,37,F,Mumbai,Nutrition,Pediatrition,fatigue,pediatrition,General Physician,,,
+1111222204,39,F,Mumbai,Immunity,Children Doctor,rashes,pediatrition,pediatrition,,BORDER,HIGH
+1111222205,38,M,Mumbai,Fitness ,Diabetes,joint pain,dentist,,,BORDER,VERY HIGH
+1111222206,39,M,Pune,Nutrition,dentist,fever,Orthopedics,,,,
+1111222207,37,M,Pune,Fitness ,Old Age Body Pain,fever,General Physician,,VERY HIGH,HIGH,
+1111222208,35,M,Pune,Nutrition,Healthy Diet,fever,Ent,,,,
+1111222209,40,M,Pune,"Heart Health, Nutrition",Weakness,"cough,cold",General Physician,,,,
+1111222210,40,F,Pune,"Immunity, Ayurveda",dermitologist,throat pain,,,HIGH,,
+1111222211,33,M,Bangalore,Homeopathy,Diabetes,headache,General Physician,diabetologist,BORDER,VERY HIGH,
+1111222212,44,F,Bangalore,"Heart Health, Nutrition",Gynacologist,Muscle pain,Orthopedics,,,,
+1111222213,39,F,Bangalore,"Heart Health, Nutrition",Cancer,headache,Cardiac Surgeon,Oncologist,BORDER,BORDER,
+1111222214,39,F,Bangalore,Homeopathy,Back pain,Muscle pain,,,BORDER,,HIGH
+1111222215,42,F,Bangalore,"Ayurveda, Nutrition",Gynacologist,wheezing,Dermatologist,,,,VERY HIGH
+1111222216,46,M,Hyderabad,Fitness ,Healthy Diet,Muscle pain,dentist,diabetologist,,,
+1111222217,45,M,Hyderabad,"Immuntiy, Ayurveda",Diabetes,fever,,,,VERY HIGH,
+1111222218,34,M,Hyderabad,Nutrition,Dentist,toothache,General Physician,dentist,BORDER,,HIGH
+1111222219,41,F,Hyderabad,"Heart Health, Nutrition",Children Doctor,weight loss,pediatrition,,,VERY HIGH,
+1111222220,35,M,Hyderabad,Mental Wellbeing,gastroenterologist,anxiety,General Physician,,,,
+1111222221,33,F,Delhi,Mental Wellbeing,Pediatrition,Weight loss,,,HIGH,,
+1111222222,46,M,Delhi,Nutrition,Old Age Body Pain,anxiety,General Physician,dermitologist,VERY HIGH,BORDER,
+1111222223,36,F,Delhi,Homeopathy,Fatigue,Chest pain,,,BORDER,VERY HIGH,BORDER
+1111222224,45,F,Delhi,Ayurveda,PCOD,Dizziness,General Physician,,,,VERY HIGH
+1111222225,39,F,Delhi,"Immunity, Ayurveda",Gynacologist,wheezing,General Physician,,,BORDER,BORDER
